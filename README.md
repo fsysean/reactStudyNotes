@@ -22,6 +22,7 @@ let` tends to be for loops or mathematical algorithms
 map method:  * Returns the elements of an array that meet the condition specified in a callback function.
 
 
+
 what is an arrow function?
 void having to type the function keyword, return keyword 
 // (param1, param2, paramN) => expression
